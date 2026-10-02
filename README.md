@@ -6,7 +6,7 @@
 
 
 
-Rubik3D es un simulador avanzado del cubo de Rubik clásico de 3x3, desarrollado con tecnología nativa (C++ / OpenGL ES 3.0 / GameActivity) para un máximo rendimiento y fidelidad visual.
+CubeLab3D es un simulador avanzado del cubo de Rubik clásico de 3x3, desarrollado con tecnología nativa (C++ / OpenGL ES 3.0 / GameActivity) para un máximo rendimiento y fidelidad visual.
 
 <hr/>
 <h3>ESTADO ACTUAL:</h3>
@@ -52,7 +52,7 @@ Rubik3D es un simulador avanzado del cubo de Rubik clásico de 3x3, desarrollado
 
 <hr/>
 <h3>PRIVACY POLICY</h3>
-Rubik3D does not collect any personal data. It works 100% offline, requires no permissions, and has no internet access. Your progress is stored locally on your device only.
+CubeLab3D does not collect any personal data. It works 100% offline, requires no permissions, and has no internet access. Your progress is stored locally on your device only.
 <br/>
 <a href="https://prvcy-wardenclyffe00.carrd.co/" target="_blank">
   Privacy Policy
